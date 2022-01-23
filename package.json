@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This package going to returns OS type",
   "main": "index.js",
+  "homepage": "https://github.com/keerthi1100/OSReturn.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
