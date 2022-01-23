@@ -1,0 +1,11 @@
+{
+  "name": "@keerthi/osreturn",
+  "version": "1.0.0",
+  "description": "This package going to returns OS type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerthi C",
+  "license": "MIT"
+}
